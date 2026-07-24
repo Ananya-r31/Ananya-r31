@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Ananya</h1>
 
 <p align="center">
-Computer Science Engineering Student at Alliance University
+Computer Science Engineering Student at Alliance University with specialization in Data Analytics
+</p>
+<p align="center">
 Aspiring Software Engineer • Data Analytics Enthusiast
 </p>
 
@@ -58,5 +60,5 @@ Build with purpose. Code with passion.
 ---
 
 <p align="center">
-Open to internship opportunities, collaborations, and impactful software projects.
+Open to opportunities, collaborations, and impactful software projects.
 </p>
