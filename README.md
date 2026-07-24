@@ -2,9 +2,6 @@
 
 <p align="center">
 Computer Science Engineering Student at Alliance University
-</p>
-
-<p align="center">
 Aspiring Software Engineer • Data Analytics Enthusiast
 </p>
 
@@ -36,8 +33,6 @@ Build with purpose. Code with passion.
 </p>
 
 ---
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
