@@ -60,7 +60,7 @@ Build with purpose. Code with passion.
 
 </p>
 
-
+<img src="https://streak-stats.demolab.com?user=Ananya-r31&theme=github-dark&hide_border=true"/>
 ---
 
 ## Current Focus
