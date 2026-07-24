@@ -53,11 +53,6 @@ Build with purpose. Code with passion.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ananya-r31&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-r31&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ananya-r31&theme=github-dark&hide_border=true" />
 </p>
 
