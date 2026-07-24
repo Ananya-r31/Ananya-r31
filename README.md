@@ -60,11 +60,6 @@ Build with purpose. Code with passion.
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-r31&theme=github-dark"/>
-
-</p>
 
 ---
 
